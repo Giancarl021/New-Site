@@ -1,0 +1,13 @@
+{
+    "name": "new-site",
+    "version": "0.1.0",
+    "description": "An CLI that generates an default HTML/CSS/JS website, with custom options to make the easiest workflow",
+    "main": "index.js",
+    "bin": {
+        "ns": "bin.js"
+    },
+    "repository": "https://github.com/Giancarl021/New-Site.git",
+    "author": "Gianarlo Fontela da Luz <gian.f.luz@hotmail.com>",
+    "license": "MIT",
+    "private": false
+}
